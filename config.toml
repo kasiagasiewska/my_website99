@@ -4,7 +4,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseurl = "https://example.org/"
+baseurl = "tender-fermat-41789c.netlify.app"
 languageCode = "en-us"
 title = "HUGO MyPortfolio Theme"
 theme = "hugo-myportfolio-theme"
